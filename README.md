@@ -50,4 +50,4 @@ tempf --------> Get temperature in format > temp=56.6'C
 umb[username]-> List all groups and user membership > [ ./utils.sh umb username ]
 uptime -------> Get device uptime in format > up 1 hour, 29 minutes
 vol[card no] -> Get volume level of selected card in format > 77
-volt ---------> Get cpu voltage in format > 1.26
+volt ---------> Get cpu voltage in format > 1.26a
